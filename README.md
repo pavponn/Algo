@@ -1,4 +1,4 @@
-# Algo ITMO
+# Algorithms-Labs
 Labs from Algorithms and Data Structures course in ITMO University 2018-2019.
 
 Лабораторные работы по курсу Алгоритмы и Структуры Данных в университете ИТМО за 2018-2019 учебный год.
